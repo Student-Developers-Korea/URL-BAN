@@ -4,7 +4,7 @@
 <br>
 확장프로그램을 설치하시고 링크를 입력하시면 차단하실 수 있습니다.
 
-# Contributor
+# Contributors
 
-<i src="https://avatars0.githubusercontent.com/u/62144272?s=400&u=3127b2826277fe5db9a6a4f14546e5236574581b&v=4">
+<img src="https://avatars0.githubusercontent.com/u/62144272?s=400&u=3127b2826277fe5db9a6a4f14546e5236574581b&v=4" />
 [genius0412](https://github.com/genius0412)
