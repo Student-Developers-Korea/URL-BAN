@@ -12,7 +12,7 @@
     "webRequestBlocking"
   ],
   "browser_action": {
-    "default_icon": "media/logo-2.png",
+    "default_icon": "media/logo.png",
     "default_title": "URL BANNER",
     "default_popup": "popup.html"
   }
