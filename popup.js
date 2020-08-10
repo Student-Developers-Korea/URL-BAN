@@ -2,7 +2,8 @@
 
  document.addEventListener('DOMContentLoaded', function() {
     $('#go').addEventListener('click', function() {
-        if($('#server > div.menu > div.item.active.selected').attr('data-value')){
-        }
+        let B = $('#url').attr('data-value');
+        if(B) bannedUrl.push(B);
+        else alert('The input box is blank.');
     });
 });
