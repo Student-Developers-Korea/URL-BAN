@@ -11,10 +11,6 @@
     "webRequest",
     "webRequestBlocking"
   ],
-  "background": {
-    "scripts": [],
-    "persistent": true
-  },
   "browser_action": {
     "default_icon": "showcase/logo-192x192.png",
     "default_title": "URL BANNER",
