@@ -13,8 +13,7 @@
   ],
   "background": {
     "scripts": [
-      "polyfill/browser-polyfill.min.js",
-      "lib/bg.js"
+      "src/block.js"
     ],
     "persistent": true
   },
