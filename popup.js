@@ -8,6 +8,6 @@ document.addEventListener('DOMContentLoaded', function() {
         let B = $('#url').attr('value');
         if(B) BanList.push(B);
         else alert('The input box is blank.');
-        localStorage.setItem(BanList);
+        localStorage.setItem(BanListTag, BanList);
     });
 });
